@@ -11,16 +11,16 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Harmadik Activity"
-        android:textSize="40dp"
+        android:text="@string/harmadik_activity"
+        android:textSize="40sp"
         android:gravity="center"/>
 
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:id="@+id/buttonBack"
-        android:text="Vissza a menübe"
-        android:textSize="30dp"
+        android:text="@string/vissza_a_menube"
+        android:textSize="30sp"
         />
 
 </LinearLayout>

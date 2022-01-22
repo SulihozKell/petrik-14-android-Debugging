@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Debugging</string>
+    <string name="ird_be_a_neved">Ird be a neved:</string>
+    <string name="a_neved">A neved</string>
+    <string name="belepes">Belépés</string>
+    <string name="kovetkezo_activity">Következő Activity</string>
+    <string name="nev_valtoztatas">Név változtatás</string>
+    <string name="informacio">Információ</string>
+    <string name="kilepes">Kilépés</string>
+    <string name="harmadik_activity">Harmadik Activity</string>
+    <string name="vissza_a_menube">Vissza a menübe</string>
 </resources>
